@@ -1,8 +1,15 @@
 # Collection of Blender resources
 
+
+## Banana 
+Made in Blender 3.0.  
+![Banana](/Banana.png)  
+Based on the tutorial (https://www.youtube.com/watch?v=Tjlt3V7W08A).  
+   
+
 ## Cheese material  
 Made in Blender 3.0.  
-Based on the tutorial [Procedural Cheese Material](https://www.youtube.com/watch?v=Tjlt3V7W08A).   
+Based on the tutorial (https://www.youtube.com/watch?v=pRo5Qmxbz28).   
    
 
 ## Gold material  
