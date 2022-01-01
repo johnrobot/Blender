@@ -4,12 +4,12 @@
 ## Banana 
 Made in Blender 3.0.  
 ![Banana](/Banana.png)  
-Based on the tutorial (https://www.youtube.com/watch?v=Tjlt3V7W08A).  
+Based on the tutorial at https://www.youtube.com/watch?v=pRo5Qmxbz28.  
    
 
 ## Cheese material  
 Made in Blender 3.0.  
-Based on the tutorial (https://www.youtube.com/watch?v=pRo5Qmxbz28).   
+Based on the tutorial at https://www.youtube.com/watch?v=Tjlt3V7W08A.   
    
 
 ## Gold material  
