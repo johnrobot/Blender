@@ -17,3 +17,10 @@ Made in Blender 3.0.
 
 ![Gold material](/Gold_material.png)  
 Based on the tutorial [Procedural Gold Material](https://www.youtube.com/watch?v=XXZtuPVTU6o).   
+
+
+
+## Quartz chrystal  
+Made in Blender 3.0.  
+
+Based on the tutorial at https://www.youtube.com/watch?app=desktop&v=1spXOqrmYjY.  
