@@ -23,5 +23,6 @@ Based on the tutorial [Procedural Gold Material](https://www.youtube.com/watch?v
 ## Quartz chrystal  
 Made in Blender 3.0.  
 Cycles, Displacement and bump
-
+   
+![Quartz chrystal](/Quartz_chrystal.png)  
 Based on the tutorial at https://www.youtube.com/watch?app=desktop&v=1spXOqrmYjY.  
