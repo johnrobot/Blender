@@ -19,6 +19,11 @@ Made in Blender 3.0.
 Based on the tutorial [Procedural Gold Material](https://www.youtube.com/watch?v=XXZtuPVTU6o).   
 
 
+## Procedural city  
+Made in Blender 3.0.  
+  
+Based on the tutorial at https://www.youtube.com/watch?v=SPHPAgXUnL8.  
+
 
 ## Quartz chrystal  
 Made in Blender 3.0.  
