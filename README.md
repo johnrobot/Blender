@@ -22,6 +22,7 @@ Based on the tutorial [Procedural Gold Material](https://www.youtube.com/watch?v
 ## Low poly rocks  
 Made in Blender 3.0.  
    
+![Low poly rocks](/Low_poly_rocks.png)  
 Based on the tutorial at https://www.youtube.com/watch?app=desktop&v=5k119fhSuRA.  
    
 ## Procedural city  
