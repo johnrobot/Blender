@@ -44,6 +44,6 @@ Made in Blender 3.0.
    
 ![Topographic landscape](/Topographic_landscape1.png)  
    
-![Topographic landscape](/Topographic_landscape1.png)  
+![Topographic landscape](/Topographic_landscape2.png)  
 Based on the tutorial at https://www.youtube.com/watch?v=IffdcuHrfIE.  
 
