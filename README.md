@@ -37,3 +37,13 @@ Cycles, Displacement and bump
    
 ![Quartz chrystal](/Quartz_chrystal.png)  
 Based on the tutorial at https://www.youtube.com/watch?app=desktop&v=1spXOqrmYjY.  
+   
+
+## Topographic landscape  
+Made in Blender 3.0.  
+   
+![Topographic landscape](/Topographic_landscape1.png)  
+   
+![Topographic landscape](/Topographic_landscape1.png)  
+Based on the tutorial at https://www.youtube.com/watch?v=IffdcuHrfIE.  
+
